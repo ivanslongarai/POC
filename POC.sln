@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC.Tests", "POC.Tests\POC.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC.Application", "POC.Application\POC.Application.csproj", "{85FF64DB-6B40-4000-B237-56441FB1C9A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC.IoC", "POC.IoC\POC.IoC.csproj", "{B345F413-D675-4AAA-B9C5-41AA7F4C752C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{85FF64DB-6B40-4000-B237-56441FB1C9A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{85FF64DB-6B40-4000-B237-56441FB1C9A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{85FF64DB-6B40-4000-B237-56441FB1C9A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B345F413-D675-4AAA-B9C5-41AA7F4C752C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B345F413-D675-4AAA-B9C5-41AA7F4C752C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B345F413-D675-4AAA-B9C5-41AA7F4C752C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B345F413-D675-4AAA-B9C5-41AA7F4C752C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
