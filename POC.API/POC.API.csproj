@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\POC.Ioc\POC.IoC.csproj" />
+    <ProjectReference Include="..\POC.Domain\POC.Domain.csproj" />
   </ItemGroup>
 
 </Project>
